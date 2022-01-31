@@ -18,14 +18,14 @@
 <center>
     <table border="15px"> <caption> Guide </caption>
         <tr> 
-            <td>For Cae content <br> please click </td>
-            <td>For Cle content<br>please click</td>
-            <td>For Math content<br> pleaase click    </td>
+            <td>For Cae </td>
+            <td>For Cle </td>
+            <td>For Math </td>
         </tr>
         <tr>
-            <td>The news paper </td>
-            <td>The bible </td>
-            <td>The plus sign </td>
+            <td>Click the news paper </td>
+            <td>Click the bible </td>
+            <td>Click the plus sign </td>
         </tr>
     </table>
 </center>
