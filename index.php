@@ -8,9 +8,9 @@
     <body text="blue">
     <header>    
         <ul>
-            <li> <a href="/actual-projects/Math.html";target="blank"> <img class="inazauma";img src="/images/plus.jpg"> </a> </li>
-            <li> <a href="/actual-projects/cae.html";target="blank"> <img class="inazauma";img src="/images/newspaper.jpg"> </a></li>
-            <li> <a href="/actual-projects/cle.html";target="blank"> <img class="inazauma";img src="/images/bible.jpg"> </a> </li>
+            <li> <a href="/actual-projects/Math.html"; target="blank"> <img class="inazauma";img src="/images/plus.jpg"> </a> </li>
+            <li> <a href="/actual-projects/cae.html"; target="blank"> <img class="inazauma";img src="/images/newspaper.jpg"> </a></li>
+            <li> <a href="/actual-projects/cle.html"; target="blank"> <img class="inazauma";img src="/images/bible.jpg"> </a> </li>
         </ul>
     </header>
 
