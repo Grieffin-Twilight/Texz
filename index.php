@@ -6,35 +6,49 @@
     </head>
 
     <body text="blue">
+    <header>    
         <ul>
-            <li> <a href="#";target="blank"> <img class="inazauma";img src="/images/plus.jpg"> </a> </li>
-            <li> <a href="#";target="blank"> <img class="inazauma";img src="/images/newspaper.jpg"> </a></li>
-            <li> <a href="#";target="blank"> <img class="inazauma";img src="/images/bible.jpg"> </a> </li>
+            <li> <a href="/actual-projects/Math.html";target="blank"> <img class="inazauma";img src="/images/plus.jpg"> </a> </li>
+            <li> <a href="/actual-projects/cae.html";target="blank"> <img class="inazauma";img src="/images/newspaper.jpg"> </a></li>
+            <li> <a href="/actual-projects/cle.html";target="blank"> <img class="inazauma";img src="/images/bible.jpg"> </a> </li>
         </ul>
-    <h1 align="center"d> <br> Hi Teachers! </h1>
+    </header>
+
+<content>
     
-    <p align="center"> Please read this! <br>
-    There are three images above, and one of them you should click</p>
-<center>
-    <table border="15px"> <caption> Guide </caption>
+    <p class="jojo"; align="center"> <br> Hi Teachers! </h1>
+    
+    <center>
+    <table border="15px"> <caption> Instructions </caption>
         <tr> 
-            <td>For Cae </td>
-            <td>For Cle </td>
-            <td>For Math </td>
+            <td colspan="3"> Cae </td>
+            <td> Cle </td>
+            <td> Math</td>
         </tr>
         <tr>
-            <td>Click the news paper </td>
-            <td>Click the bible </td>
-            <td>Click the plus sign </td>
+            <th colspan="2"></th>
+            <td> Click the news paper </td>
+            <td> Clck the bible </td>
+            <td> Click the plus </td>
         </tr>
     </table>
 </center>
-    <p> And for the credits, please click the link below for who contributed in out project.
-        Thank you teachers for following the intructions, have a wonderful day/afternoon/night.
+<p align="center"> And for the extras, <br>They will be coming soon,<br> with the link below,<br> you will see who contributed in our project.
+    <br>Thank you teachers for following the intructions.<br> have a wonderful day/afternoon/night.
+</p>
+</content>
+<footer>
+    <p align="center">Group
+       <br> Alexandra fulledo
+       <br> Jayrael Nino
+       <br> Mj Dechosa
+       <br> Steven John D. Abetong
+       <br> Tristan Bryan
     </p>
-    </img>
-    </div>  
- 
-    </body>
-
+    <p>Extras</p>
+<Marquee>
+    <p>Coming soon</p>
+</Marquee>
+</footer>  
+</body>
 </html>
